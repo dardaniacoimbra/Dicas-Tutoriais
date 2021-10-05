@@ -56,7 +56,6 @@ Segue aqui, uma lista com o **TOP 6** extensões do VSCode que eu considero as m
 **Funcionalidade:**  Traga ao VSCode os ícones das linguagens que você usa. 
 
 **Exemplo:** 
-
 ![enter image description here](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/screenshot.gif)
 
 ## 6- Rainbow Brackets
@@ -66,7 +65,7 @@ Segue aqui, uma lista com o **TOP 6** extensões do VSCode que eu considero as m
 # Bônus!!!
 
 ##  Bearded Theme
-
+![enter image description here](https://dm2301files.storage.live.com/y4psd7uUzLZWSRWXU4rr2dDiFL6BmWf4nRRoWg62Ebz-RbU5rTpoK3UuqKrYQmAGFu4aZ4pyIaQM1DsA91CA2pU0R8ZYaSh8zM8rLBqjKkp32Bg2PmsoioNuf_-Qlih5IXwNymO91QAmbQGeP9rW-mp0tgPp-yFJAokgWokz-S7mIGbcHphCUgOdKaUYKrauZLYmZ7Ew2lMQPlNZds3MVlMKxHF9FIMsd9n09a6qLqctN4/bearded%20theme.png?psid=1&width=563&height=176)
 **Funcionalidade:** Adicione temas ao seu VSCode
 ![enter image description here](https://raw.githubusercontent.com/BeardedBear/bearded-theme/master/assets/themes.png)
 
@@ -77,7 +76,7 @@ Segue aqui, uma lista com o **TOP 6** extensões do VSCode que eu considero as m
 **Funcionalidade:** Traga o método de pomodoro para o VsCode. O método  **Pomodoro**  é simples e dura duas horas. Primeiro, você realiza uma atividade durante 25 minutos. Quando acabar o tempo, descansa 5 minutos. Assim sucessivamente até que complete as duas horas.
 
 ##  Power Mode
-
+![enter image description here](https://dm2301files.storage.live.com/y4piDH7MWful1rC_LCAhiLD-5Pjb1DhOdPvwuPmCRxyrwuaXZe0f-BaomdxTI5fkLfCD6erRURjI_4uRK1ZXoX4iMQVdbliGM6-voRdQwqNbhdXjEFFYqSi4nG2KxSNMUo9NM-RytGMmAKXeVJib7GZ23Uklvenc-97UKv4Glv3OsIwmriyW9dG5vaLJ6lsMrjsRBaVU2G8QCAVWVtfstRBEjuhZmxnEPuoyqpwQLOiAf4/Power%20mode.png?psid=1&width=951&height=144)
 **Funcionalidade:** Tenha efeitos visuais enquanto você digita, uma forma divertida de descontrair o momento de trabalho ou estudo.
 ![enter image description here](https://github.com/hoovercj/vscode-power-mode/raw/master/images/demo-presets-particles.gif)
 
