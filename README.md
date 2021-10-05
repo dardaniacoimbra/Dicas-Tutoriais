@@ -30,53 +30,51 @@ Segue aqui, uma lista com o **TOP 6** extensões do VSCode que eu considero as m
 # Lista de extensões:
 
 ## 1- Beautify
-![enter image description here](https://thedeployguy.com/static/c2047a90bb6d110c01b20ecec760a371/59415/beautify.png)
 
 **Funcionalidade:**  Beautify é uma extensão para embelezamento de códigos em **JavaScript**, **JSON**, **CSS**, **Sass**, e **HTML** no VisualCode.
 
 ## 2- Bookmarks
-![enter image description here](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/vscode-bookmarks-logo-readme.png)
 
 **Funcionalidade:** Ele ajuda você a navegar em seu código, movendo-se entre posições importantes com facilidade e rapidez. Não há mais necessidade de pesquisar o código. Ele também suporta um conjunto de comandos de seleção, o que permite selecionar linhas marcadas e regiões entre as linhas marcadas. É muito útil para análise de arquivos de log.
 
 ## 3- Live Server
-![enter image description here](https://miro.medium.com/max/1400/1*5Ls-Y7HNYtg8xmZwtgEO1g.png)
+
 **Funcionalidade:** O Live Server implementa um “_live reload_” – ou seja, um **recarregamento ao vivo** – para páginas web estáticas ou dinâmicas. Basicamente, essa extensão elimina a necessidade de dar um F5 a cada alteração feita em um arquivo do seu projeto (seja um .html, .css, etc). Isso porque ela inicia um servidor de desenvolvimento local (por padrão, na porta 5500, mas você pode customizar isso) e, cada vez que você salvar uma alteração em um arquivo do seu projeto, **a página será recarregada automaticamente** no browser.
 
 ## 4- Ident-rainbow
-![enter image description here](https://dm2301files.storage.live.com/y4p6X8nZDDcaK2O4Deyzi55tKs77czYo5ojilHOLV93QH0fgsRQx7r1jGVt37TQkNL9MVQz_x50KahKVuPDPXs8zuTC4huAZfNAjUnXcpttEw58ncVfkq31UHX-fy-sx3Htj8rvyg6r3YcuhBhSdn1uf3W2_YQ2U--PApjUE7u9E9HAUomMNQ1l3iPpRbLOwlZtNUJOSCK7DuVgl0TeRP5VsdFyjzuk1wEO-uHBFvNJma8/imagem_2021-10-04_201712.png?psid=1&width=652&height=174)
+
 **Funcionalidade:** Uma extensão simples para tornar a indentação mais legível.
 
 ## 5- Image Preview
-![enter image description here](https://dm2301files.storage.live.com/y4pfH0Wqqk4NcHBLKQUG3YMRqGE-I-dLvTs5-OLM0gBo4UJG0IyXduuJ185zRJEglWBarwaHTqvJ39T1FM3-JypLpcxZHsjOd_POSDhsxApJRM-JJOZe2UzBeY1SR7rTJXKHjOv2j9eDICs1QX1QBePsxwvsan59MZc08zZfe139GhzI1ttJPweeO63VTqR4jqk_Z5bZDy47S8GSQaHaLzQV77lBC5liehWH6P_A9wKsSw/imagem_2021-10-04_201904.png?psid=1&width=608&height=174)
+
 **Funcionalidade:**Mostra a visualizações das imagens inseridas no código.
 
 ## 6- Vs Code -icons
-![enter image description here](https://thedeployguy.com/static/d347875584a119fd6d2e520816456cd0/fcda8/icons.png)
+
 **Funcionalidade:**  Traga ao VSCode os ícones das linguagens que você usa. 
 
 **Exemplo:** 
-![enter image description here](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/screenshot.gif)
+
 
 ## 6- Rainbow Brackets
-![enter image description here](https://dm2301files.storage.live.com/y4pkxTC74_2PoW-US8MzSH9liAdMz4ipJaU_ck7EVB01lhzl1_eubh7s9j_dXzmbmuTIWghncBBpj23GR6L8bBQMnrP8wDLOa6xTsrbJJr9yNZyC4nY-vNHSrxYaoTt62LJsTr27RyOOnppxqbRrXS7jiM4ahe6_2oUaoHxinpmZxu1ypey-urJcFXRXSZhhZhRumcwGfRZroEgr7ErhshhO7pfK0ELC7iYMXU2ZIxhAhU/Rainbow%20Brackets.png?psid=1&width=570&height=174)
+
 **Funcionalidade:** Traga cores aos colchetes, chaves e parênteses, fazendo o seu código mais legível.
 
 # Bônus!!!
 
 ##  Bearded Theme
-![enter image description here](https://dm2301files.storage.live.com/y4psd7uUzLZWSRWXU4rr2dDiFL6BmWf4nRRoWg62Ebz-RbU5rTpoK3UuqKrYQmAGFu4aZ4pyIaQM1DsA91CA2pU0R8ZYaSh8zM8rLBqjKkp32Bg2PmsoioNuf_-Qlih5IXwNymO91QAmbQGeP9rW-mp0tgPp-yFJAokgWokz-S7mIGbcHphCUgOdKaUYKrauZLYmZ7Ew2lMQPlNZds3MVlMKxHF9FIMsd9n09a6qLqctN4/bearded%20theme.png?psid=1&width=563&height=176)
+
 **Funcionalidade:** Adicione temas ao seu VSCode
 ![enter image description here](https://raw.githubusercontent.com/BeardedBear/bearded-theme/master/assets/themes.png)
 [
 Tutorial de como trocar o tema do VSCode usando a extensão Bearded Theme](https://youtu.be/UKpB7xEwQc8)
 
 ##  Pomodoro Timer
-![enter image description here](https://dm2301files.storage.live.com/y4pWA5amHScUshjGg2nz-YW-o6jty97pOcW4lr1L1XErbGeHF9am66wNkYTTW0vJy0U--UgR_dAc3BMntD9iSyzVS4nujOwG36jwFb0yMi0qDvm_pf6gotIsdX-8uWKWh-mokqwWJbG-lnqinpkX-MYZ1eAtcpOns05qzWMTRqfj3GrbJ3JYbAcMG5Pl5qrAsuWXrWy0EDGMnKviMb4QfXx0skct0BLQRJpkR0QxCHE2Xc/Pomodoro%20Timer.png?psid=1&width=534&height=172)
+
 **Funcionalidade:** Traga o método de pomodoro para o VsCode. O método  **Pomodoro**  é simples e dura duas horas. Primeiro, você realiza uma atividade durante 25 minutos. Quando acabar o tempo, descansa 5 minutos. Assim sucessivamente até que complete as duas horas.
 
 ##  Power Mode
-![enter image description here](https://dm2301files.storage.live.com/y4piDH7MWful1rC_LCAhiLD-5Pjb1DhOdPvwuPmCRxyrwuaXZe0f-BaomdxTI5fkLfCD6erRURjI_4uRK1ZXoX4iMQVdbliGM6-voRdQwqNbhdXjEFFYqSi4nG2KxSNMUo9NM-RytGMmAKXeVJib7GZ23Uklvenc-97UKv4Glv3OsIwmriyW9dG5vaLJ6lsMrjsRBaVU2G8QCAVWVtfstRBEjuhZmxnEPuoyqpwQLOiAf4/Power%20mode.png?psid=1&width=951&height=144)
+
 **Funcionalidade:** Tenha efeitos visuais enquanto você digita, uma forma divertida de descontrair o momento de trabalho ou estudo.
 ![enter image description here](https://github.com/hoovercj/vscode-power-mode/raw/master/images/demo-presets-particles.gif)
 
