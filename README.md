@@ -1,10 +1,14 @@
 ﻿# Conteúdo:
 
- 1. [Melhores extensões do VSCode](#MelhoresextensõesVSCode)
- 1.2 [Como Instalar](#Comoinstalar:)
- 1.3 [Como desinstalar](#Comodesinstalar:)
- 1.4 [Lista de extensões](#Listadeextensões:)
- 1.5 [Bônus](#Bônus)
+ 1. [Melhores extensões do VSCode](#Melhores-extensões-vscode-)
+
+ 	1.2 [Como Instalar](#como-instalar)
+
+	 1.3 [Como desinstalar](#como-desinstalar)
+
+	 1.4 [Lista de extensões](#lista-de-extensões)
+
+	 1.5 [Bônus](#bônus)
 
 # Melhores extensões VSCode !  
 
