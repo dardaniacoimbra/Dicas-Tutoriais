@@ -10,6 +10,78 @@
 
 	 1.5 [Bônus](#bônus)
 
+2.  [Sobre o GitHub](#sobre-o-github)
+	2.1 Principais comando do GitHub
+	[Fork](#fork)
+	[Git clone](#git-clone)
+	[Git init](#git-init)
+	[Git status](#git-status)
+	[Git add .](#git-add)
+	[Git commit -m](#git-commit)
+	[Git push](#git-push)
+	[Pull request](#pull-request)
+	
+# Sobre o GitHub:
+
+## O que é o GitHub?
+
+GitHub é um serviço baseado em nuvem que hospeda um sistema de controle de versão chamado Git. Ele permite que os desenvolvedores colaborem e façam mudanças em projetos compartilhados enquanto mantêm um registro detalhado do seu progresso.
+ 
+## O que é um repositório?
+
+Repositório, ou repo, é um diretório onde os arquivos do seu projeto ficam armazenados. Ele pode ficar em um depósito do GitHub ou em seu computador. Você pode armazenar códigos, imagens, áudios, ou qualquer outra coisa relacionada ao projeto no diretório.
+
+## O que é uma branch?
+
+Branch é uma cópia do diretório. Você pode usar o _branch_ para desenvolver isoladamente.
+
+# Principais Comandos no GitHub:
+
+## Fork:
+**Funcionalidade:** Dar Forking em um repositório significa que você vai criar um novo projeto baseado em repositórios existentes. Em termos simples, dar forking em um repositório quer dizer que você vai copiar um repositório existente, fazer as alterações necessárias, armazenar a nova versão como um novo repositório e chamar de seu projeto.
+
+📍 Clique [aqui](https://www.youtube.com/watch?v=Tzhn2_0K89c&list=PL8ZRcd28w9DNShyKdkS4l9VwodaWEIj1p&index=12) e veja como fazer fork em um repositório no GitHUb.
+
+## Git clone:
+**Funcionalidade:** É um comando que é usado para selecionar um repositório existente e criar um **clone** ou cópia do repositório de destino.
+
+📍 Clique [aqui](https://www.youtube.com/watch?v=1M24RsgddiU&list=PL8ZRcd28w9DNShyKdkS4l9VwodaWEIj1p&index=10) e veja como utilizar o comando git clone.
+
+## Git init:
+**Funcionalidade:** Cria um novo repositório local com um nome específico.
+
+📍 Clique [aqui](https://www.youtube.com/watch?v=OXG-80yyfNQ&list=PL8ZRcd28w9DNShyKdkS4l9VwodaWEIj1p&index=8) e veja como utilizar o comando **git init**.
+
+## Git Status:
+**Funcionalidade:** Lista todos os arquivos novos ou modificados para serem commitados.
+
+📍 Clique [aqui](https://www.youtube.com/watch?v=2P7FVs-dG7Q&list=PL8ZRcd28w9DNShyKdkS4l9VwodaWEIj1p&index=5) e veja como utilizar o comando **git status**.
+
+## Git add
+**Funcionalidade:** Faz o snapshot de *TODOS* arquivo na preparação para versionamento.
+
+📍 Clique [aqui](https://www.youtube.com/watch?v=Imu45OrjGeM&list=PL8ZRcd28w9DNShyKdkS4l9VwodaWEIj1p&index=14) e veja como utilizar o comando **git add .**
+
+## Git commit:
+**Funcionalidade:** Grava o snapshot permanentemente do arquivo no histórico de versão.
+
+📍 Clique [aqui](https://www.youtube.com/watch?v=vHZEsCYxKlE&list=PL8ZRcd28w9DNShyKdkS4l9VwodaWEIj1p&index=9) e veja como utilizar o comando **git commit**.
+
+## Git Push:
+**Funcionalidade:** Envia todos os commits do branch local para o GitHub.
+
+Clique [aqui](https://www.youtube.com/watch?v=hkCSMPbsCjY&list=PL8ZRcd28w9DNShyKdkS4l9VwodaWEIj1p&index=6) e veja como utilizar o comando **git push**.
+
+## Pull Request:
+**Funcionalidade:** É o pedido para que o repositório original, ou uma branch do repositório original, faça a ação de **pull** (puxar) as atualizações do repositório fork ou de um branch do próprio repositório.
+
+Clique [aqui](https://www.youtube.com/watch?v=pLicGRTA6qs&list=PL8ZRcd28w9DNShyKdkS4l9VwodaWEIj1p&index=7) e veja como fazer um pull request.
+
+## 💡Fonte:
+O que é [GitHub](https://www.hostinger.com.br/tutoriais/o-que-github#O-Que-ePull-Request)?
+O que é [Git clone](https://www.atlassian.com/br/git/tutorials/setting-up-a-repository/git-clone)
+
+
 # Melhores extensões VSCode !  
 
 Segue aqui, uma lista com o **TOP 6** extensões do VSCode que eu considero as melhores. Nesse documento você aprenderá como instalar as extensões e como cada uma delas pode te ajudar enquanto você usa o VSCode! 🤩
