@@ -81,7 +81,7 @@ Branch é uma cópia do diretório. Você pode usar o _branch_ para desenvolver 
 ## Git Push:
 **Funcionalidade:** Envia todos os commits do branch local para o GitHub.
 
-Clique [aqui](https://www.youtube.com/watch?v=hkCSMPbsCjY&list=PL8ZRcd28w9DNShyKdkS4l9VwodaWEIj1p&index=6) e veja como utilizar o comando **git push**.
+📍 Clique [aqui](https://www.youtube.com/watch?v=hkCSMPbsCjY&list=PL8ZRcd28w9DNShyKdkS4l9VwodaWEIj1p&index=6) e veja como utilizar o comando **git push**.
 
 ## Pull Request:
 **Funcionalidade:** É o pedido para que o repositório original, ou uma branch do repositório original, faça a ação de **pull** (puxar) as atualizações do repositório fork ou de um branch do próprio repositório.
