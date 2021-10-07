@@ -29,6 +29,8 @@
 	[Git push](#git-push)
 
 	[Pull request](#pull-request)
+
+	[Clear](#clear)
 	
 # Sobre o GitHub:
 
@@ -85,6 +87,11 @@ Clique [aqui](https://www.youtube.com/watch?v=hkCSMPbsCjY&list=PL8ZRcd28w9DNShyK
 **Funcionalidade:** É o pedido para que o repositório original, ou uma branch do repositório original, faça a ação de **pull** (puxar) as atualizações do repositório fork ou de um branch do próprio repositório.
 
 Clique [aqui](https://www.youtube.com/watch?v=pLicGRTA6qs&list=PL8ZRcd28w9DNShyKdkS4l9VwodaWEIj1p&index=7) e veja como fazer um pull request.
+
+## Clear:
+**Funcionalidade:** Limpa a tela do git bash.
+
+Clique [aqui](https://www.youtube.com/watch?v=V8l0Eidf4s0&list=PL8ZRcd28w9DNShyKdkS4l9VwodaWEIj1p&index=13) e veja como utilizar o comando **clear**.
 
 ## 💡Fonte:
 O que é [GitHub](https://www.hostinger.com.br/tutoriais/o-que-github#O-Que-ePull-Request)?
