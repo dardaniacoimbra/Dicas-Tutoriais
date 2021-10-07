@@ -1,4 +1,4 @@
-﻿# Conteúdo:
+﻿# 🌎 Conteúdo:
 
  1. [Melhores extensões do VSCode](#Melhores-extensões-vscode-)
 
@@ -11,14 +11,23 @@
 	 1.5 [Bônus](#bônus)
 
 2.  [Sobre o GitHub](#sobre-o-github)
-	2.1 Principais comando do GitHub
+
+	2.1 [Principais comandos do GitHub:](#principais-comandos-no-github)
+
 	[Fork](#fork)
+
 	[Git clone](#git-clone)
+
 	[Git init](#git-init)
+
 	[Git status](#git-status)
+
 	[Git add .](#git-add)
+
 	[Git commit -m](#git-commit)
+
 	[Git push](#git-push)
+
 	[Pull request](#pull-request)
 	
 # Sobre o GitHub:
@@ -79,6 +88,7 @@ Clique [aqui](https://www.youtube.com/watch?v=pLicGRTA6qs&list=PL8ZRcd28w9DNShyK
 
 ## 💡Fonte:
 O que é [GitHub](https://www.hostinger.com.br/tutoriais/o-que-github#O-Que-ePull-Request)?
+
 O que é [Git clone](https://www.atlassian.com/br/git/tutorials/setting-up-a-repository/git-clone)
 
 
