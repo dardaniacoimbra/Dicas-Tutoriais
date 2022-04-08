@@ -101,7 +101,7 @@ O que é [Git clone](https://www.atlassian.com/br/git/tutorials/setting-up-a-rep
 
 # Melhores extensões VSCode !  
 
-Segue aqui, uma lista com o **TOP 6** extensões do VSCode que eu considero as melhores. Nesse documento você aprenderá como instalar as extensões e como cada uma delas pode te ajudar enquanto você usa o VSCode! 🤩
+Segue aqui, uma lista com o **TOP 7** extensões do VSCode que eu considero as melhores. Nesse documento você aprenderá como instalar as extensões e como cada uma delas pode te ajudar enquanto você usa o VSCode! 🤩
 
 # Como instalar:
 
@@ -209,5 +209,12 @@ Segue aqui, uma lista com o **TOP 6** extensões do VSCode que eu considero as m
 
 💡 [Tutorial de como ativar o Power Mode](https://youtu.be/kTMsCAKiqko)
 
+## Discord Presence
 
+**Funcionalidade:** Essa extensão é pra quem gosta de usar o Discord! A Discord Presence vai atualizar seu status no Discord enquanto você usa o VS Code, mostrando em qual linguagem de programação você está trabalhando atualmente. 
 
+![enter image description here](https://uploaddeimagens.com.br/imagens/-0qMvZE)
+
+**Como vai aparecer no Discord:**
+
+![enter image description here](https://uploaddeimagens.com.br/imagens/UiVBBgA)
