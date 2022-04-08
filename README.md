@@ -213,8 +213,8 @@ Segue aqui, uma lista com o **TOP 7** extensões do VSCode que eu considero as m
 
 **Funcionalidade:** Essa extensão é pra quem gosta de usar o Discord! A Discord Presence vai atualizar seu status no Discord enquanto você usa o VS Code, mostrando em qual linguagem de programação você está trabalhando atualmente. 
 
-![enter image description here](https://uploaddeimagens.com.br/imagens/-0qMvZE)
+![enter image description here](https://www.imagemhost.com.br/images/2022/04/08/WhatsApp-Image-2022-04-08-at-10.45.39.jpg)
 
 **Como vai aparecer no Discord:**
 
-![enter image description here](https://uploaddeimagens.com.br/imagens/UiVBBgA)
+![enter image description here](https://i.imgur.com/DO3fEqW.png)
